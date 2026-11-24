@@ -2,7 +2,7 @@
 
 # SecCyber
 
-**Infrastructure · Network security · DevOps**
+**Infrastructure · Network security · DevOps**<br>
 *Practical cybersecurity, step by step.*
 
 [![Website](https://img.shields.io/badge/website-seccyber.si-0f172a?style=flat-square)](https://www.seccyber.si)
